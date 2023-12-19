@@ -3,7 +3,7 @@ Passionate about programming technologies, I immerse myself in a constant learni
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-angel-sanchez-ocegueda) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-sanchez-ocegueda) 
 
 
 # 💻 Tech Stack:
