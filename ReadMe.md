@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un amante de las tecnologías de la programación, siempre aprendiendo para tratar de dar lo mejor en cada proyecto
+Passionate about programming technologies, I immerse myself in a constant learning process to offer exceptional solutions in each project. Exploring the fascinating world of code, I always seek to improve and overcome challenges. Welcome to my GitHub profile, where innovation and performance meet!
 
 
 ## 🌐 Socials:
